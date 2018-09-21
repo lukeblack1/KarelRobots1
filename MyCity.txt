@@ -1,0 +1,8 @@
+# City saved on 2018/8/30@11:49:53
+
+# Window title
+Robots: Learning to program with Java
+# first street, first avenue, num streets, num avenues
+0 0 5 7
+# intersection size
+100
